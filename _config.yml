@@ -1,0 +1,28 @@
+name: "Bob's Motor Workshop"
+favicon: null
+layout_spectrum: 0.007668133592233062
+typography_spectrum: 0.18802757188677788
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9810588655527681
+  lightness: 0.3576890896074474
+  saturation: 0.2632756596431136
+  rhythmicContrast: 0.9493037431966513
+purpose: []
